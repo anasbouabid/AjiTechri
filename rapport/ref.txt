@@ -1,0 +1,20 @@
+Open Classrooms : 
+https://openclassrooms.com/fr/courses/626954-creez-votre-application-web-avec-java-ee
+https://openclassrooms.com/fr/courses/2434016-developpez-des-sites-web-avec-java-ee
+Happy Coding :
+https://happycoding.io/tutorials/java-server/eclipse-ee
+Oracle : 
+https://docs.oracle.com/javaee/7/tutorial/
+
+Youtube : 
+https://www.youtube.com/watch?v=pOUDEFVjUXM&ab_channel=in28minutesCloud%2CDevOpsandMicroservices
+https://www.youtube.com/playlist?list=PLBNheBxhHLQyuFBZHx20kGByDoySutwBf
+
+stackoverflow : 
+https://stackoverflow.com/questions/16654579/java-ee-upload-image-to-database
+
+GeeksforGeeks : 
+https://www.geeksforgeeks.org/introduction-java-servlets/
+
+javaTpoint : 
+https://www.javatpoint.com/java-ee
